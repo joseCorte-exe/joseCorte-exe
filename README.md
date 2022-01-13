@@ -39,9 +39,6 @@
    <a href="https://www.electronjs.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="30" height="30"/>
    </a>
-   <a href="https://www.slack.com">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="30" height="30"/>
-   </a>
    <a href="https://git-scm.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
    </a>
