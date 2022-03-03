@@ -43,17 +43,17 @@
    </a>
 </p>
 
-- <h4>A tech student.</h4> 
+<h4>🖥️ A tech student.</h4> 
 
-- <h4>i'm a front end developer.</h4>
+<h4>🔭 i'm a front end developer.</h4>
 
-- <h4>I’m currently learning javascript technologies.</h4>
+<h4>🌱 I’m currently learning javascript technologies.</h4>
 
-- <h4>I’m looking for a job.</h4>
+<h4>🧐 I’m looking for a job.</h4>
 
-- <h4>I’m looking to collaborate on new projects.</h4>
+<h4>👯 I’m looking to collaborate on new projects.</h4>
 
-- <h4>I live in Brazil.</h4>
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/flag-brazil_1f1e7-1f1f7.png" width="20" /> I live in Brazil.</h4>
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
 
@@ -80,7 +80,7 @@
   </a>
 </p>
 
-[![joseCorte-exe' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseCorte-exe&custom_title=José%20Corte's%20Contribution%20Graph&theme=dark)](https://abhigyantrips.dev)
+<!-- [![joseCorte-exe' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseCorte-exe&custom_title=José%20Corte's%20Contribution%20Graph&theme=dark)](https://abhigyantrips.dev) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseCorte-exe&anuraghazra&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseCorte-exe&hide=javascript,css,scss,html&theme=dark) -->
@@ -92,8 +92,8 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: José Corte](https://img.shields.io/badge/-JoséCorte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-corte/)](https://www.linkedin.com/in/jose-corte/)
-[![Gmail Badge](https://img.shields.io/badge/-josesilvacorte34@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesilvacorte34@gmail)](mailto:josesilvacorte34@gmail.com)
+[![Linkedin: José Corte](https://img.shields.io/badge/-JoséCorte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-corte/)](https://www.linkedin.com/in/jose-corte/) |
+[![Gmail Badge](https://img.shields.io/badge/-josesilvacorte34@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josesilvacorte34@gmail)](mailto:josesilvacorte34@gmail.com) |
 [![GitHub joseCorte-exe]( https://img.shields.io/github/followers/joseCorte-exe?label=follow&style=social)](https://github.com/joseCorte-exe)
 
 ##
