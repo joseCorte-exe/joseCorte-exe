@@ -80,7 +80,7 @@
   </a>
 </p>
 
-[![joseCorte-exe' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseCorte-exe&custom_title=José%20Corte's%20Contribution%20Graph&theme=dark&bg_color=000000&hide_border=true&line=00ffd2&point=00ffd2)](https://abhigyantrips.dev)
+[![joseCorte-exe' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseCorte-exe&custom_title=José%20Corte's%20Contribution%20Graph&theme=dark)](https://abhigyantrips.dev)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseCorte-exe&anuraghazra&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseCorte-exe&hide=javascript,css,scss,html&theme=dark) -->
