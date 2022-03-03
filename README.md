@@ -18,28 +18,28 @@
 <h2> skills <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="20" /></h2>
   <p align="center">
    <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
    <a href="https://nextjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
    </a>
    <a href="https://nodejs.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </a>
    <a href="https://www.electronjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
 
@@ -68,19 +68,22 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=joseCorte-exe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api?username=joseCorte-exe&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
     />
   </a>
   <a href="https://github.com/joseCorte-exe">
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseCorte-exe&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseCorte-exe&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
     />
   </a>
 </p>
 
-[![joseCorte-exe' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseCorte-exe&custom_title=José%20Corte's%20Contribution%20Graph&theme=tokyonight&bg_color=000000&hide_border=true&line=00ffd2&point=00ffd2)](https://abhigyantrips.dev)
+[![joseCorte-exe' Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseCorte-exe&custom_title=José%20Corte's%20Contribution%20Graph&theme=dark&bg_color=000000&hide_border=true&line=00ffd2&point=00ffd2)](https://abhigyantrips.dev)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseCorte-exe&anuraghazra&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseCorte-exe&hide=javascript,css,scss,html&theme=dark) -->
 
 
 
