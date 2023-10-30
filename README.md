@@ -43,9 +43,9 @@
    </a>
 </p>
 
-<h4>🖥️ A tech student.</h4> 
+<h4>🖥️ A computer science student.</h4> 
 
-<h4>🔭 i'm a front end developer.</h4>
+<h4>🔭 i'm a full stack and mobile end developer.</h4>
 
 <h4>🌱 I’m currently learning javascript technologies.</h4>
 
@@ -55,7 +55,7 @@
 
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/flag-brazil_1f1e7-1f1f7.png" width="20" /> I live in Brazil.</h4>
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <!-- ## -->
 
