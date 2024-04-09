@@ -10,7 +10,7 @@
 
 
 
-<p>Hello! 👋, I've been a technology student for 6 years, today I develop web apps using reactjs (among other tools that will be listed below), I'm a developer specializing in front-end, but I have the dream of becoming full-cycle developer in 6 months, but until then I keep studying all the time...</p>
+<p>Hello! 👋, I've been a technology student for 6 years, today I develop web apps using reactjs (among other tools that will be listed below), I'm a developer specializing in front-end, but I have the dream of becoming full-cycle developer in 1 year, but until then I keep studying all the time...</p>
 <p>Today I'm looking for a job opportunity for a mid-level front-end position in app development in react, react-native or nodejs</p>
 
 <blockquote>I Decided To Be Pirate King. I Don’t Care If I Die For It.</blockquote>
