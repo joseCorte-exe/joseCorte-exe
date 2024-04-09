@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="left"> <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" /> Hi, I'm José Corte, 18y</h1>
+<h1 align="left"> <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40" /> Hi, I'm José Corte, 21y</h1>
 
 <img
       align="center"
